@@ -32,7 +32,7 @@ Outlined below are the main commands from the Colab to run and execute the pipel
 `
 # Contributions
 
-Megan - data download, YAML edits, inference, post processing
+Megan - data download, YAML edits, inference, post-processing
 
 Ryan - GitHub cloning, YAML edits, tensorboard visualization, training, converting .h5 to json, inference
 
